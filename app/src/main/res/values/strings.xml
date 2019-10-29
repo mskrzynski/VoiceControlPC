@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">VoiceControlPC</string>
+    <string name="talk">Mów</string>
+    <string name="stop_talking">Stop</string>
+    <string name="search_computers">Wyszukaj lokalne komputery</string>
+    <string name="ip_address" tools:ignore="Typos">Adres IP:</string>
+    <string name="hostname">Nazwa komputera:</string>
+    <string name="connect">Połącz</string>
+    <string name="disconnect">Połączono (Rozłącz)</string>
+    <string name="status">Status / Ostatnio wypowiedziany wyraz:</string>
+    <string name="connected">Połączono z komputerem</string>
+    <string name="disconnected">Rozłączono z komputerem</string>
+    <string name="screenshot">Zrzut ekranu</string>
+    <string name="webcam_image">Obraz kamery internetowej</string>
+    <string name="input_ip" tools:ignore="Typos">adres IP/domena</string>
+    <string name="input_port">port</string>
+    <string name="remote_connect_button">Połącz</string>
+    <string name="builtin_commands">Wbudowane polecenia: \'zrzut\' - zapisuje zrzut ekranu komputera, \'kamera\' - zapisuje zrzut podłączonej do komputera kamery</string>
+    <string name="remote_connect" tools:ignore="Typos">Aby połączyć się z serwerem zdalnie, wpisz poniżej publiczny adres IP sieci lub jej domenę w której znajduje się obsługiwany serwer, oraz ustalony dla niego port:</string>
+</resources>
